@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mbartels64
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Website building project to observe and learn
 - 📫 How to reach me insta: mbartels64
 
